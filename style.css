@@ -21,7 +21,7 @@ body {
 
 #question {
     font-family: 'Sacramento', cursive; /* Apply Sacramento font to the question */
-    font-size: 35px; /* Set font size for the question */
+    font-size: 25px; /* Set font size for the question */
 }
 
 #options {
